@@ -14,7 +14,6 @@ Ensembles learned using EnsemblePursuit from recordings in V1 have Gabor recepti
 
 Some ensembles are well explained by behavior PC's extracted from mouse orofacial movies.
 
-![](https://github.com/mariakesa/EnsemblePursuit/blob/master/Figures/mouse.gif)
 
 
 ![alt text](https://github.com/mariakesa/EnsemblePursuit/blob/master/Figures/Behavior.png)
